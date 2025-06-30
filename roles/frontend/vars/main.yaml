@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.swetha.fun
+USER_HOST: user.swetha.fun
+CART_HOST: cart.swetha.fun
+SHIPPING_HOST: shipping.swetha.fun
+PAYMENT_HOST: payment.swetha.fun
